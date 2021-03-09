@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 .announcement {
-    background-color: #337ab7;
+    background-color:firebrick;
     width: 100%;
     height: 30px;
 }
@@ -54,17 +54,18 @@ body {
 
 
 #myCarousel {
-    background-color:coral;
+    background-color:darkturquoise;
 }
 
 #myCarousel img {
     height: 300px;
     margin-top: 35px;
-}
+    border: solid 5px black;
+   }
 
 .carousel-inner p {
     margin-bottom: 15px;
     margin-top: 15px;
-    color:darkred;
+    color:black;
     font-size: 20px;
 }
