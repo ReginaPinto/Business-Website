@@ -1,8 +1,9 @@
 body {
     text-align: center;
 }
+
 .announcement {
-    background-color:firebrick;
+    background-color: firebrick;
     width: 100%;
     height: 30px;
 }
@@ -18,54 +19,72 @@ body {
 #welcome {
     color: #FFFFFF;
     bottom: 0;
-    background: linear-gradient(#60ebeb 0%, #90fc3d 100%);
+    background: linear-gradient(#60ebeb 0%, #80db09 100%);
     display: table;
     width: 100%;
     height: 100%;
     z-index: 9;
 }
 
-#welcome h4{
-    color:#65026e;
+#welcome h4 {
+    color: #65026e;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Ravi Prakash', cursive;
 }
-#welcome h3{
-    color:darkblue;
+
+#welcome h3 {
+    color: darkblue;
+    font-family: 'Acme', sans-serif;
 }
-#welcome h2{
-    color:#ad0e16;
+
+#welcome h2 {
+    color: #ad0e16;
+    font-family: 'Fredoka One', cursive;
+}
+
+#work h2{
+    font-family:cursive;
 }
 
 #contact iframe {
     width: 100%;
 }
 
-#contact{
+#contact {
     background-color: crimson;
+}
+
+#contact h1 {
+    color:lawngreen;
+    font-family:monospace;
 }
 
 .contact_1 a {
     text-shadow: none;
     background-color: crimson;
 }
+
 .contact_1 h5 {
     font-size: 16px;
-    color:darkblue;
+    color: darkblue;
 }
 
 
 #myCarousel {
-    background-color:#e0e016;
+    background-color: #e0e016;
 }
 
 #myCarousel img {
     height: 300px;
     margin-top: 35px;
     border: solid 5px black;
-   }
+}
 
 .carousel-inner p {
     margin-bottom: 15px;
     margin-top: 15px;
-    color:black;
+    color: black;
     font-size: 20px;
+    font-family: 'Akaya Kanadaka', cursive;
 }
