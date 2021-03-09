@@ -19,7 +19,7 @@ body {
 #welcome {
     color: #FFFFFF;
     bottom: 0;
-    background: linear-gradient(#60ebeb 0%, #16f59c 100%);
+    background: linear-gradient(#88edf2 0%, #d6ff94 50%, #ff6666 100%);
     display: table;
     width: 100%;
     height: 100%;
@@ -27,23 +27,25 @@ body {
 }
 
 #welcome h4 {
-    color: #65026e;
+    color: #1a0791;
     font-size: 20px;
     font-weight: 600;
     font-family: 'Ravi Prakash', cursive;
 }
 
 #welcome h3 {
-    color: darkblue;
+    color: #d10f32;
     font-family: 'Acme', sans-serif;
 }
 
 #welcome h2 {
-    color: #ad0e16;
+    color: #0a0002;
+    font-weight: 100;
+    font-size: 22px;
     font-family: 'Fredoka One', cursive;
 }
 
-#work h2{
+#work h2 {
     font-family: 'RocknRoll One', sans-serif;
 }
 
@@ -56,8 +58,8 @@ body {
 }
 
 #contact h1 {
-    color:lawngreen;
-    font-family:monospace;
+    color: #e3e63c;
+    font-family: 'Aclonica', sans-serif;
 }
 
 .contact_1 a {
