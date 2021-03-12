@@ -62,16 +62,21 @@ body {
     font-family: 'Aclonica', sans-serif;
 }
 
-.contact_1 a {
-    text-shadow: none;
-    background-color: crimson;
-}
 
 .contact_1 h5 {
-    font-size: 16px;
-    color: darkblue;
+    font-size: 20px;
+    color:darkmagenta;
+   }
+
+h6 {
+    font-size: 20px;
+    color:darkblue;
 }
 
+h7 {
+    font-size: 20px;
+    color:darkgreen;
+}
 
 #myCarousel {
     background-color: #e0e016;
